@@ -1,0 +1,24 @@
+/* DECLARING ROOT VARIABLES */
+:root{
+    --mainColor: rgb(12, 53, 71);
+    --scrollBarHandle: #888;
+    --fontFamily: "Poppins";
+    /*--mainColor: red;*/
+    --secondaryColor: rgb(255, 254, 106);
+    --textColor: white;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../assets/fonts/Poppins/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: Poppins Bold;
+    src: url('../assets/fonts/Poppins/Poppins-Bold.ttf');
+    font-weight: bold;
+}
+
+*{
+    font-family: 'Poppins';
+}

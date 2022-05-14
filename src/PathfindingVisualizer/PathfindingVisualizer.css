@@ -1,0 +1,102 @@
+/* IMPORTING CONSTANTS.CSS */
+@import '../constants/constants.css';
+
+/* GRID STYLE */
+.grid {
+  margin: 50px 0px 0px 0px;
+}
+
+/* SCROLLBAR */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* SCROLLBAR TRACK */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* SCROLLBAR HANDLE */
+::-webkit-scrollbar-thumb {
+  background: var(--scrollBarHandle);
+  border-radius: 10px;
+}
+
+/* SCROLLBAR HANDLE HOVER */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* NAVBAR WRAPPER */
+.navbar-wrapper{
+  background-color: var(--mainColor);
+}
+
+/* NAVBAR ICONS AND TEXT */
+.navbar-wrapper span{
+  color: var(--textColor);
+}
+
+/* NAVBAR ICONS AND TEXT WRAPPER */
+.navbar-wrapper .nav-link{
+  opacity: 0.5;
+}
+
+/* NAVBAR ICONS AND TEXT WRAPPER HOVER */
+.navbar-wrapper .nav-link:hover{
+  opacity: 1;
+}
+
+/* NOTES WRAPPER */
+.note-wrapper {
+  height: 110%;
+  display: flex;
+  margin-top: 10px;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+@media (max-width: 768px) {
+  .note-wrapper {
+    height: 100%;
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 1000px) {
+  .note-wrapper {
+    height: 100%;
+    flex-wrap: wrap ;
+  }
+}
+
+/* NOTE */
+.note {
+  margin-bottom: 0px;
+  background-color: var(--mainColor);
+  width: 93%;
+  height: 100%;
+  padding: 20px 60px;
+  margin: 10px;
+  border: var(--mainColor) 1px solid;
+  border-radius: 5px;
+}
+
+/* NOTE TEXT */
+.note p{
+  font-family: "Poppins Bold";
+  color: var(--textColor);
+  font-size: 1.5vw;
+  font-weight: bold;
+  text-align: center;
+}
+
+.note h6{
+  color: var(--textColor);
+  font-size: 1vw;
+}
+
+.note-wrapper .card .card-body .card-title{
+  font-family: "Poppins Bold";
+}
