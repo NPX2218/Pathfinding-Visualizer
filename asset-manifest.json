@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/Pathfinding-Visualizer/static/css/main.82ab199e.chunk.css",
-    "main.js": "/Pathfinding-Visualizer/static/js/main.73ae2a48.chunk.js",
-    "main.js.map": "/Pathfinding-Visualizer/static/js/main.73ae2a48.chunk.js.map",
-    "runtime-main.js": "/Pathfinding-Visualizer/static/js/runtime-main.554fb3c6.js",
-    "runtime-main.js.map": "/Pathfinding-Visualizer/static/js/runtime-main.554fb3c6.js.map",
-    "static/css/2.a31e845b.chunk.css": "/Pathfinding-Visualizer/static/css/2.a31e845b.chunk.css",
-    "static/js/2.52bec5a9.chunk.js": "/Pathfinding-Visualizer/static/js/2.52bec5a9.chunk.js",
-    "static/js/2.52bec5a9.chunk.js.map": "/Pathfinding-Visualizer/static/js/2.52bec5a9.chunk.js.map",
+    "main.css": "/Pathfinding-Visualizer/static/css/main.da4c1152.css",
+    "main.js": "/Pathfinding-Visualizer/static/js/main.b570e716.js",
+    "static/media/Poppins-Regular.ttf": "/Pathfinding-Visualizer/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Bold.ttf": "/Pathfinding-Visualizer/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/car_right.svg": "/Pathfinding-Visualizer/static/media/car_right.a40f39d073072b187473.svg",
+    "static/media/point-down.svg": "/Pathfinding-Visualizer/static/media/point-down.5e60d4de83f6ef28628e.svg",
+    "static/media/point-up.svg": "/Pathfinding-Visualizer/static/media/point-up.5a43b30416613799cec8.svg",
+    "static/media/point-left.svg": "/Pathfinding-Visualizer/static/media/point-left.94ca751f2aee88c3c91f.svg",
     "index.html": "/Pathfinding-Visualizer/index.html",
-    "precache-manifest.2d5080af24c2ff5fe9343d23ae2e66ce.js": "/Pathfinding-Visualizer/precache-manifest.2d5080af24c2ff5fe9343d23ae2e66ce.js",
-    "service-worker.js": "/Pathfinding-Visualizer/service-worker.js",
-    "static/css/2.a31e845b.chunk.css.map": "/Pathfinding-Visualizer/static/css/2.a31e845b.chunk.css.map",
-    "static/css/main.82ab199e.chunk.css.map": "/Pathfinding-Visualizer/static/css/main.82ab199e.chunk.css.map",
-    "static/media/PathfindingVisualizer.css": "/Pathfinding-Visualizer/static/media/Poppins-Regular.093ee89b.ttf",
-    "static/media/Node.css": "/Pathfinding-Visualizer/static/media/target.539ab07e.svg"
-  }
+    "static/media/point-right.svg": "/Pathfinding-Visualizer/static/media/point-right.eb3761b6c8dc8ba990bc.svg",
+    "static/media/target.svg": "/Pathfinding-Visualizer/static/media/target.a538bedab8a991b7681c.svg",
+    "main.da4c1152.css.map": "/Pathfinding-Visualizer/static/css/main.da4c1152.css.map",
+    "main.b570e716.js.map": "/Pathfinding-Visualizer/static/js/main.b570e716.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da4c1152.css",
+    "static/js/main.b570e716.js"
+  ]
 }
