@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/Pathfinding-Visualizer/static/css/main.da4c1152.css",
-    "main.js": "/Pathfinding-Visualizer/static/js/main.b570e716.js",
+    "main.css": "/Pathfinding-Visualizer/static/css/main.4cbb6c6a.css",
+    "main.js": "/Pathfinding-Visualizer/static/js/main.644fde45.js",
     "static/media/Poppins-Regular.ttf": "/Pathfinding-Visualizer/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
     "static/media/Poppins-Bold.ttf": "/Pathfinding-Visualizer/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/wall-placement.gif": "/Pathfinding-Visualizer/static/media/wall-placement.d1f71d5d4a3e73b7c9bc.gif",
     "static/media/car_right.svg": "/Pathfinding-Visualizer/static/media/car_right.a40f39d073072b187473.svg",
     "static/media/point-down.svg": "/Pathfinding-Visualizer/static/media/point-down.5e60d4de83f6ef28628e.svg",
     "static/media/point-up.svg": "/Pathfinding-Visualizer/static/media/point-up.5a43b30416613799cec8.svg",
@@ -11,11 +12,11 @@
     "index.html": "/Pathfinding-Visualizer/index.html",
     "static/media/point-right.svg": "/Pathfinding-Visualizer/static/media/point-right.eb3761b6c8dc8ba990bc.svg",
     "static/media/target.svg": "/Pathfinding-Visualizer/static/media/target.a538bedab8a991b7681c.svg",
-    "main.da4c1152.css.map": "/Pathfinding-Visualizer/static/css/main.da4c1152.css.map",
-    "main.b570e716.js.map": "/Pathfinding-Visualizer/static/js/main.b570e716.js.map"
+    "main.4cbb6c6a.css.map": "/Pathfinding-Visualizer/static/css/main.4cbb6c6a.css.map",
+    "main.644fde45.js.map": "/Pathfinding-Visualizer/static/js/main.644fde45.js.map"
   },
   "entrypoints": [
-    "static/css/main.da4c1152.css",
-    "static/js/main.b570e716.js"
+    "static/css/main.4cbb6c6a.css",
+    "static/js/main.644fde45.js"
   ]
 }
